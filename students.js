@@ -31,7 +31,7 @@ var students = [
   track: "iOS",
   achievements: 6,
   points: 1950},
-  {name: "Teresa", 
+  {name: "Teresa",
   track: "Web Design",
   achievements: 16,
   points: 3420},
@@ -50,3 +50,5 @@ while (true) {
     }
   }
 }
+
+function edit();
